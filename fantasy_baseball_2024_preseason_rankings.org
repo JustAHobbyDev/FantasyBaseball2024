@@ -1,0 +1,18 @@
+* Super Mega Fantasy Baseball
+** 2024 Preseason Team Rankings
+Rankings done by [[https://fantasysp.com][FantasySP]]
+
+| Team                   | Ranking | URL                                           |
+|------------------------+---------+-----------------------------------------------|
+| Boit's Bobblers        |     440 | https://www.fantasysp.com/rate_my_team/254878 |
+| P-Town Ducksnorts      |     426 | https://www.fantasysp.com/rate_my_team/254874 |
+| Chuck's Choice         |     423 | https://www.fantasysp.com/rate_my_team/254877 |
+| Dickville Butts        |     417 | https://www.fantasysp.com/rate_my_team/254885 |
+| Mighty Mallards        |     392 | https://www.fantasysp.com/rate_my_team/254873 |
+| Best Team              |     390 | https://www.fantasysp.com/rate_my_team/254883 |
+| Burnes Burners         |     379 | https://www.fantasysp.com/rate_my_team/254875 |
+| Glasgow Luchadores     |     368 | https://www.fantasysp.com/rate_my_team/254886 |
+| Barksdale Blue Falcons |     362 | https://www.fantasysp.com/rate_my_team/254882 |
+| Firedogs               |     359 | https://www.fantasysp.com/rate_my_team/254888 |
+
+
